@@ -1,4 +1,4 @@
 from .import operasi
 
-def update():
+def update_console():
     print("ini update")
