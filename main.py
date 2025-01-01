@@ -36,7 +36,7 @@ if __name__ == "__main__":
             case "1": CRI.read_console()
             case "2": CRI.create_console()
             case "3": CRI.update_console()
-            case "4": print("Deleta Data")
+            case "4": CRI.delete_console()
         
         print("=======================")
         
